@@ -4,20 +4,20 @@
     "packaging_format": 1,
     "description": {
         "en": "Meta search engine for Google and popular torrent sites",
-        "fr": "Meta search engine for Google and popular torrent sites"
+        "fr": "Méta moteur de recherche pour Google et les sites torrent populaires"
     },
-    "version": "1.0~ynh1",
-    "url": "https://example.com",
+    "version": "20220709~ynh1",
+    "url": "https://github.com/hnhx/librex",
     "upstream": {
         "license": "AGPL-3.0",
-        "website": "https://example.com",
+        "website": "https://github.com/hnhx/librex",
         "demo": "https://librex.beparanoid.de",
         "admindoc": "https://github.com/hnhx/librex/wiki",
         "code": "https://github.com/hnhx/librex"
     },
     "license": "AGPL-3.0",
     "maintainer": {
-        "name": "",
+        "name": "eric_G",
         "email": ""
     },
     "requirements": {
