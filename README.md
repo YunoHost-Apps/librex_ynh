@@ -30,7 +30,6 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 
 ## Screenshots
 
-![Screenshot of LibreX](./doc/screenshots/.DS_Store)
 ![Screenshot of LibreX](./doc/screenshots/screenshot.png)
 
 ## Documentation and resources

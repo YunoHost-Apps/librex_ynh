@@ -30,7 +30,6 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 
 ## Captures d'écran
 
-![Capture d'écran de LibreX](./doc/screenshots/.DS_Store)
 ![Capture d'écran de LibreX](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
