@@ -1,0 +1,44 @@
+{
+    "name": "LibreX",
+    "id": "librex",
+    "packaging_format": 1,
+    "description": {
+        "en": "Meta search engine for Google and popular torrent sites",
+        "fr": "Meta search engine for Google and popular torrent sites"
+    },
+    "version": "1.0~ynh1",
+    "url": "https://example.com",
+    "upstream": {
+        "license": "AGPL-3.0",
+        "website": "https://example.com",
+        "demo": "https://librex.beparanoid.de",
+        "admindoc": "https://github.com/hnhx/librex/wiki",
+        "code": "https://github.com/hnhx/librex"
+    },
+    "license": "AGPL-3.0",
+    "maintainer": {
+        "name": "",
+        "email": ""
+    },
+    "requirements": {
+        "yunohost": ">= 4.3.0"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx",
+        "php7.4-fpm"
+    ],
+    "arguments": {
+        "install": [
+            {
+                "name": "domain",
+                "type": "domain"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "default": true
+            }
+        ]
+    }
+}
