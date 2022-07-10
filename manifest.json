@@ -9,13 +9,13 @@
     "version": "20220709~ynh1",
     "url": "https://github.com/hnhx/librex",
     "upstream": {
-        "license": "AGPL-3.0",
+        "license": "AGPL-3.0-only",
         "website": "https://github.com/hnhx/librex",
         "demo": "https://librex.beparanoid.de",
         "admindoc": "https://github.com/hnhx/librex/wiki",
         "code": "https://github.com/hnhx/librex"
     },
-    "license": "AGPL-3.0",
+    "license": "AGPL-3.0-only",
     "maintainer": {
         "name": "eric_G",
         "email": ""

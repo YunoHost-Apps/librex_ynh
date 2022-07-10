@@ -105,6 +105,8 @@ ynh_add_config --template="../conf/opensearch.xml.example" --destination="$final
 
 chmod 400 "$final_path/config.php"
 chown $app:$app "$final_path/config.php"
+chmod 400 "$final_path/opensearch.xml"
+chown $app:$app "$final_path/opensearch.xml"
 
 #=================================================
 # SETUP SYSTEMD

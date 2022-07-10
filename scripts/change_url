@@ -101,6 +101,16 @@ then
 fi
 
 #=================================================
+# SPECIFIC MODIFICATIONS
+#=================================================
+
+domain="$new_domain"
+ynh_add_config --template="../conf/opensearch.xml.example" --destination="$final_path/opensearch.xml"
+
+chmod 400 "$final_path/opensearch.xml"
+chown $app:$app "$final_path/opensearch.xml"
+
+#=================================================
 # GENERIC FINALISATION
 #=================================================
 # START SYSTEMD SERVICE
