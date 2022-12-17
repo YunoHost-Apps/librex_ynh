@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/hnhx/librex/archive/112e64cdab8ea92c4018015d21984150e9b3af7c.tar.gz
-SOURCE_SUM=0c932a88e786c93b7e183d303f2653cb7fc462e4e423e614b7d0a4a56b28e066
+SOURCE_URL=https://github.com/hnhx/librex/archive/f883df2d07dfb6b4514e723e545399bb1d2ddcca.tar.gz
+SOURCE_SUM=00e42002519d3b2035425981a39b8b607a9f3cc30784e8679ce93e8f9639ac30
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
