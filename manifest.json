@@ -6,7 +6,7 @@
         "en": "Meta search engine for Google and popular torrent sites",
         "fr": "Méta moteur de recherche pour Google et les sites torrent populaires"
     },
-    "version": "20220709~ynh1",
+    "version": "20221217~ynh1",
     "url": "https://github.com/hnhx/librex",
     "upstream": {
         "license": "AGPL-3.0-only",
@@ -21,7 +21,7 @@
         "email": ""
     },
     "requirements": {
-        "yunohost": ">= 4.3.0"
+        "yunohost": ">= 11.0.9"
     },
     "multi_instance": true,
     "services": [
