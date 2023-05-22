@@ -6,8 +6,8 @@ After=syslog.target network.target
 Type=simple
 User=__APP__
 Group=__APP__
-WorkingDirectory=__FINALPATH__/
-ExecStart=__FINALPATH__/auto_updater.sh
+WorkingDirectory=__INSTALL_DIR__/
+ExecStart=__INSTALL_DIR__/auto_updater.sh
 Restart=always
 RestartSec=10s
 
