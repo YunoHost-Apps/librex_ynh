@@ -5,15 +5,16 @@ It shall NOT be edited by hand.
 
 # LibreX pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)
+
 [![Installer LibreX avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=librex)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer LibreX rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer LibreX rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 LibreX gives you results from Google, Qwant and popular torrent sites without spying on you. 
 
@@ -30,15 +31,15 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 
 **Démo :** https://librex.beparanoid.de
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de LibreX](./doc/screenshots/screenshot.png)
+![Capture d’écran de LibreX](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://github.com/hnhx/librex>
-* Documentation officielle de l'admin : <https://github.com/hnhx/librex/wiki>
-* Dépôt de code officiel de l'app : <https://github.com/hnhx/librex>
+* Site officiel de l’app : <https://github.com/hnhx/librex>
+* Documentation officielle de l’admin : <https://github.com/hnhx/librex/wiki>
+* Dépôt de code officiel de l’app : <https://github.com/hnhx/librex>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_librex>
 * Signaler un bug : <https://github.com/YunoHost-Apps/librex_ynh/issues>
 
@@ -54,4 +55,4 @@ ou
 sudo yunohost app upgrade librex -u https://github.com/YunoHost-Apps/librex_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
