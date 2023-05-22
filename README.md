@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # LibreX for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![Working status](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![Working status](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)
+
 [![Install LibreX with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=librex)
 
 *[Lire ce readme en français.](./README_fr.md)*
