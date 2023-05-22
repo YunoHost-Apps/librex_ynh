@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # LibreX for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![Working status](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![Working status](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)
+
 [![Install LibreX with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=librex)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -21,16 +22,12 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 
 - Ad & JavaScript free
 - Torrent results from popular torrent sites
-- Special queries (e.g.: 2.4 btc to usd)
-- DDG bang (e.g.: !steam dark souls 3)
 - Tracking snippets from URLs are removed
-- Multiple color themes
-- Supports both POST and GET requests
 - Popular social media sites (YouTube, Instagram, Twitter etc.) are replaced with privacy friendly front-ends
 - No 3rd party libs are used
 
 
-**Shipped version:** 20221217~ynh1
+**Shipped version:** 20221217~ynh2
 
 **Demo:** https://librex.beparanoid.de
 
