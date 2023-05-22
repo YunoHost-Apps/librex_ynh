@@ -5,7 +5,7 @@ name = "LibreX"
 description.en = "Meta search engine for Google and popular torrent sites"
 description.fr = "Méta moteur de recherche pour Google et les sites torrent populaires"
 
-version = "20221217~ynh1"
+version = "20221217~ynh2"
 
 maintainers = ["eric_G"]
 
