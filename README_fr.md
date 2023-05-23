@@ -27,7 +27,7 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 - No 3rd party libs are used
 
 
-**Version incluse :** 20221217~ynh2
+**Version incluse :** 2023.05.04~ynh2
 
 **Démo :** https://librex.beparanoid.de
 
