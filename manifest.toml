@@ -5,7 +5,7 @@ name = "LibreX"
 description.en = "Meta search engine for Google and popular torrent sites"
 description.fr = "Méta moteur de recherche pour Google et les sites torrent populaires"
 
-version = "2023.05.31~ynh2"
+version = "2023.05.31~ynh3"
 
 maintainers = ["eric_G"]
 
@@ -49,4 +49,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php7.4-dom php7.4-curl"
+    packages = "php8.2-dom php8.2-curl"

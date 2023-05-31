@@ -49,7 +49,7 @@ ynh_add_config --template="../conf/opensearch.xml.example" --destination="$insta
 
 chmod 400 "$install_dir/config.php"
 chown $app:$app "$install_dir/config.php"
-chmod 400 "$install_dir/opensearch.xml"
+chmod 650 "$install_dir/opensearch.xml"
 chown $app:$app "$install_dir/opensearch.xml"
 
 #=================================================
