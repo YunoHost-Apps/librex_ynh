@@ -5,7 +5,7 @@ name = "LibreX"
 description.en = "Meta search engine for Google and popular torrent sites"
 description.fr = "Méta moteur de recherche pour Google et les sites torrent populaires"
 
-version = "2023.05.31~ynh3"
+version = "2023.06.24~ynh3"
 
 maintainers = ["eric_G"]
 
@@ -36,8 +36,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/hnhx/librex/archive/b8817a6e28d1de3de35a9f4abe9f501f6a1fe997.tar.gz"
-        sha256 = "25fff03e949bacbaf01ff3eb71093ee2f3becc542777cf96f86cd7ea6572bdda"
+        url = "https://github.com/hnhx/librex/archive/b5a9f12df91cb8ded541df291da58ce2f104fe62.tar.gz"
+        sha256 = "b88ae9896b281f2929b4e48f947d261bb7ecd7e2c6bd5c378237be3606f6c9b5"
         autoupdate.upstream = "https://github.com/hnhx/librex"
         autoupdate.strategy = "latest_github_commit"
 
