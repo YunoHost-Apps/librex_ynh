@@ -1,5 +1,5 @@
 [Unit]
-Description=LibreX: A privacy meta search engine
+Description=LibreX: Privacy meta search engine
 After=syslog.target network.target
 
 [Service]

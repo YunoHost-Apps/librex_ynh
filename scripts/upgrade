@@ -56,7 +56,7 @@ ynh_add_systemd_config
 # Use logrotate to manage app-specific logfile(s)
 ynh_use_logrotate --non-append
 
-yunohost service add $app --description="A privacy meta search engine" --log="/var/log/$app/$app.log"
+yunohost service add $app --description="Privacy meta search engine" --log="/var/log/$app/$app.log"
 
 #=================================================
 # START SYSTEMD SERVICE
