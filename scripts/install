@@ -37,7 +37,7 @@ ynh_add_systemd_config
 # Use logrotate to manage application logfile(s)
 ynh_use_logrotate
 
-yunohost service add $app --description="A privacy meta search engine" --log="/var/log/$app/$app.log"
+yunohost service add $app --description="Privacy meta search engine" --log="/var/log/$app/$app.log"
 
 #=================================================
 # ADD A CONFIGURATION
@@ -50,7 +50,7 @@ ynh_add_config --template="../conf/opensearch.xml.example" --destination="$insta
 chmod 400 "$install_dir/config.php"
 chown $app:$app "$install_dir/config.php"
 chmod 650 "$install_dir/opensearch.xml"
-chown $app:$app "$install_dir/opensearch.xml"
+chown $app:www-data "$install_dir/opensearch.xml"
 
 #=================================================
 # START SYSTEMD SERVICE
