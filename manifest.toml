@@ -5,13 +5,12 @@ name = "LibreX"
 description.en = "Meta search engine for Google and popular torrent sites"
 description.fr = "Méta moteur de recherche pour Google et les sites torrent populaires"
 
-version = "2023.08.09~ynh1"
+version = "2023.11.14~ynh1"
 
 maintainers = ["eric_G"]
 
 [upstream]
 license = "AGPL-3.0-only"
-demo = "https://librex.beparanoid.de"
 admindoc = "https://github.com/hnhx/librex/wiki"
 code = "https://github.com/hnhx/librex"
 
@@ -19,8 +18,11 @@ code = "https://github.com/hnhx/librex"
 yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
+
 ldap = false
+
 sso = false
+
 disk = "50M"
 ram.build = "100M"
 ram.runtime = "50M"
@@ -28,7 +30,6 @@ ram.runtime = "50M"
 [install]
     [install.domain]
     type = "domain"
-    full_domain = true
 
     [install.init_main_permission]
     type = "group"
@@ -49,4 +50,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php8.2-dom php8.2-curl"
+    packages = "php8.2-dom, php8.2-curl"
