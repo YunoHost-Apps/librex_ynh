@@ -29,8 +29,6 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 
 **Version incluse :** 2023.08.09~ynh1
 
-**Démo :** https://librex.beparanoid.de
-
 ## Captures d’écran
 
 ![Capture d’écran de LibreX](./doc/screenshots/screenshot.png)
