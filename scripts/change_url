@@ -29,7 +29,7 @@ ynh_change_url_nginx_config
 # SPECIFIC MODIFICATIONS
 #=================================================
 
-ynh_add_config --template="../conf/opensearch.xml.example" --destination="$install_dir/opensearch.xml"
+ynh_add_config --template="opensearch.xml.example" --destination="$install_dir/opensearch.xml"
 
 chmod 650 "$install_dir/opensearch.xml"
 chown $app:www-data "$install_dir/opensearch.xml"
