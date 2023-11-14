@@ -39,7 +39,7 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 
 * Official admin documentation: <https://github.com/hnhx/librex/wiki>
 * Upstream app code repository: <https://github.com/hnhx/librex>
-* YunoHost documentation for this app: <https://yunohost.org/app_librex>
+* YunoHost Store: <https://apps.yunohost.org/app/librex>
 * Report a bug: <https://github.com/YunoHost-Apps/librex_ynh/issues>
 
 ## Developer info
