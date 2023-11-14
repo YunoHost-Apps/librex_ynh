@@ -29,6 +29,8 @@ LibreX vous donne les résultats de Google, Qwant et des sites torrent populaire
 
 **Version incluse :** 2023.11.14~ynh1
 
+**Démo :** https://librey.devol.it/
+
 ## Captures d’écran
 
 ![Capture d’écran de LibreX](./doc/screenshots/screenshot.png)
