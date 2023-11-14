@@ -44,8 +44,8 @@ yunohost service add $app --description="Privacy meta search engine" --log="/var
 #=================================================
 ynh_script_progression --message="Adding a configuration file..." --weight=1
 
-ynh_add_config --template="../conf/config.php.example" --destination="$install_dir/config.php"
-ynh_add_config --template="../conf/opensearch.xml.example" --destination="$install_dir/opensearch.xml"
+ynh_add_config --template="config.php.example" --destination="$install_dir/config.php"
+ynh_add_config --template="opensearch.xml.example" --destination="$install_dir/opensearch.xml"
 
 chmod 400 "$install_dir/config.php"
 chown $app:$app "$install_dir/config.php"
