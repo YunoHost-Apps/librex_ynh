@@ -29,6 +29,8 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 
 **Shipped version:** 2023.11.14~ynh1
 
+**Demo:** https://librey.devol.it/
+
 ## Screenshots
 
 ![Screenshot of LibreX](./doc/screenshots/screenshot.png)
