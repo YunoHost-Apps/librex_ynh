@@ -16,18 +16,18 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-LibreX gives you results from Google, Qwant and popular torrent sites without spying on you. 
+LibreX vous donne les résultats de Google, Qwant et des sites torrent populaires sans vous espionner.
 
-### Features
+### Caractéristiques
 
-- Ad & JavaScript free
-- Torrent results from popular torrent sites
-- Tracking snippets from URLs are removed
-- Popular social media sites (YouTube, Instagram, Twitter etc.) are replaced with privacy friendly front-ends
-- No 3rd party libs are used
+- Sans publicité ni JavaScript
+- Résultats torrent des sites torrent populaires
+- Les extraits de suivi des URL sont supprimés
+- Les sites de médias sociaux populaires (YouTube, Instagram, Twitter, etc.) sont remplacés par des frontaux respectueux de la confidentialité
+- Aucune bibliothèque tierce n'est utilisée
 
 
-**Version incluse :** 2023.08.09~ynh1
+**Version incluse :** 2023.11.14~ynh1
 
 ## Captures d’écran
 
