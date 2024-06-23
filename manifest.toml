@@ -7,7 +7,7 @@ description.fr = "Méta moteur de recherche pour Google et les sites torrent pop
 
 version = "2023.11.14~ynh1"
 
-maintainers = ["eric_G"]
+maintainers = []
 
 [upstream]
 license = "AGPL-3.0-only"
