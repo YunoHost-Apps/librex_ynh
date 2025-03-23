@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # LibreX para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/librex)](https://ci-apps.yunohost.org/ci/apps/librex/)
+![Estado funcional](https://apps.yunohost.org/badge/state/librex)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/librex)
 
 [![Instalar LibreX con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=librex)
 
@@ -27,7 +29,7 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 - No 3rd party libs are used
 
 
-**Versión actual:** 2023.11.14~ynh1
+**Versión actual:** 2023.11.14~ynh2
 
 **Demo:** <https://librey.devol.it/>
 
@@ -44,7 +46,7 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/librex_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/librex_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 

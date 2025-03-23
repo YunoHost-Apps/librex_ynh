@@ -5,7 +5,9 @@
 
 # YunoHost 上的 LibreX
 
-[![集成程度](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![工作状态](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/librex)](https://ci-apps.yunohost.org/ci/apps/librex/)
+![工作状态](https://apps.yunohost.org/badge/state/librex)
+![维护状态](https://apps.yunohost.org/badge/maintained/librex)
 
 [![使用 YunoHost 安装 LibreX](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=librex)
 
@@ -27,7 +29,7 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 - No 3rd party libs are used
 
 
-**分发版本：** 2023.11.14~ynh1
+**分发版本：** 2023.11.14~ynh2
 
 **演示：** <https://librey.devol.it/>
 
