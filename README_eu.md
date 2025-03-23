@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # LibreX YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/librex)](https://ci-apps.yunohost.org/ci/apps/librex/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/librex)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/librex)
 
 [![Instalatu LibreX YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=librex)
 
@@ -27,7 +29,7 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 - No 3rd party libs are used
 
 
-**Paketatutako bertsioa:** 2023.11.14~ynh1
+**Paketatutako bertsioa:** 2023.11.14~ynh2
 
 **Demoa:** <https://librey.devol.it/>
 

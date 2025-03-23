@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # LibreX for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/librex.svg)](https://dash.yunohost.org/appci/app/librex) ![Working status](https://ci-apps.yunohost.org/ci/badges/librex.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/librex.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/librex)](https://ci-apps.yunohost.org/ci/apps/librex/)
+![Working status](https://apps.yunohost.org/badge/state/librex)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/librex)
 
 [![Install LibreX with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=librex)
 
@@ -27,7 +29,7 @@ LibreX gives you results from Google, Qwant and popular torrent sites without sp
 - No 3rd party libs are used
 
 
-**Shipped version:** 2023.11.14~ynh1
+**Shipped version:** 2023.11.14~ynh2
 
 **Demo:** <https://librey.devol.it/>
 

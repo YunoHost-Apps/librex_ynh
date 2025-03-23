@@ -1,3 +1,5 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
 packaging_format = 2
 
 id = "librex"
@@ -5,7 +7,7 @@ name = "LibreX"
 description.en = "Meta search engine for Google and popular torrent sites"
 description.fr = "Méta moteur de recherche pour Google et les sites torrent populaires"
 
-version = "2023.11.14~ynh1"
+version = "2023.11.14~ynh2"
 
 maintainers = []
 
@@ -37,11 +39,11 @@ ram.runtime = "50M"
     default = "visitors"
 
 [resources]
-        [resources.sources.main]
-        url = "https://github.com/hnhx/librex/archive/b5a9f12df91cb8ded541df291da58ce2f104fe62.tar.gz"
-        sha256 = "b88ae9896b281f2929b4e48f947d261bb7ecd7e2c6bd5c378237be3606f6c9b5"
-        autoupdate.upstream = "https://github.com/hnhx/librex"
-        autoupdate.strategy = "latest_github_commit"
+    [resources.sources.main]
+    url = "https://github.com/hnhx/librex/archive/b5a9f12df91cb8ded541df291da58ce2f104fe62.tar.gz"
+    sha256 = "b88ae9896b281f2929b4e48f947d261bb7ecd7e2c6bd5c378237be3606f6c9b5"
+    autoupdate.upstream = "https://github.com/hnhx/librex"
+    autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
 
